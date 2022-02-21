@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightskyblue;
+    height: 100vh;
+}
+
+#animation_heading {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.typed-cursor {
+    display: none;
+}
